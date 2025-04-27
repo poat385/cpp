@@ -10,7 +10,7 @@
 
 ## 📸 Скриншот одного из выполненных заданий
 
-![](https://github.com/poat385/cpp/scr/pr_1.png)
+![](https://github.com/poat385/cpp/blob/main/src/pr_1.png)
 
 -----
 
